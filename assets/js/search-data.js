@@ -58,21 +58,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-dr-samuel-daramola-graduates-from-virginia-tech",
+        },{id: "post-dr-samuel-daramola-graduates-from-virginia-tech",
         
           title: "Dr. Samuel Daramola graduates from Virginia Tech",
         
