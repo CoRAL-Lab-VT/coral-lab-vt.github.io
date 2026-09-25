@@ -275,7 +275,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-collaborative-research-on-characterization-of-tropical-cyclone-surge-evolution-has-been-accepted-for-publication-in-coastal-engineering-journal-congratulations-to-the-team",
           title: 'Our collaborative research on “Characterization of tropical cyclone surge evolution” has been accepted...',
           description: "",
-          section: "News",},{id: "news-congratulations-md-shadman-for-publising-the-second-chapter-of-your-phd-dissertation-virginia-tech-and-the-university-of-florida-worked-on-quantifying-future-effects-of-low-frequency-tropical-cyclones-and-sea-level-rise-scenarios-on-nonlinear-interactions-in-total-water-levels-the-coral-lab-led-this-study-published-in-agu-earth-s-future-congratulations-to-the-team",
+          section: "News",},{id: "news-congratulations-md-shadman-for-publising-the-second-chapter-of-your-phd-dissertation-virginia-tech-and-the-university-of-central-florida-worked-on-quantifying-future-effects-of-low-frequency-tropical-cyclones-and-sea-level-rise-scenarios-on-nonlinear-interactions-in-total-water-levels-the-coral-lab-led-this-study-published-in-agu-earth-s-future-congratulations-to-the-team",
           title: 'Congratulations Md. Shadman for publising the second chapter of your PhD dissertation! Virginia...',
           description: "",
           section: "News",},{id: "projects-cas-climate",
